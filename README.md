@@ -1,3 +1,3 @@
 # Hello World
 
-## This is a hello world program!
+## This is a hello world script.
