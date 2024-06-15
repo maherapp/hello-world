@@ -1,3 +1,3 @@
 # Hello World
 
-## This is a hello world script.
+## A hello world app.
